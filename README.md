@@ -9,17 +9,16 @@ I love reading, workout, hanging out with friends and i love tasting whisky.
 <div align=center>
 <h2>My skills</h2>
   
-![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23E34F26.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/django-%23CB3837.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Django-Rest](https://img.shields.io/badge/django-rest-%23CB3837.svg?style=for-the-badge&logo=django-rest&logoColor=white)
-![Flask](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastApi](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/flutter-CA4245?style=for-the-badge&logo=flutter&logoColor=white))
+![Python](https://img.shields.io/badge/python-%376d9C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%D73222.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/java-%0872B8.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%E96228.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%2363F1.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%EFD81D.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-%0C4B33.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%222222?style=for-the-badge&logo=flask&logoColor=white)
+![FastApi](https://img.shields.io/badge/fastapi-%059487.svg?style=for-the-badge&logo=fastapi&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/flutter-%015496?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
